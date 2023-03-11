@@ -47,29 +47,29 @@
 							<h2>William Basseto Sena</h2>
 						</header>
 						<strong>Desenvolvedor</strong>
-						<spam>Delphi,</spam>
-						<spam>Lazarus,</spam>
 						<spam>PHP,</spam>
 						<spam>Laravel,</spam>
 						<spam>VueJS,</spam>
+						<spam>Angular,</spam>
+						<spam>VueJS,</spam>
+						<spam>Ionic,</spam>
 						<spam>HTML5</spam>
 						<spam>WordPress</spam>
+						<spam>Delphi,</spam>
 					</div>
 				</section>
 				<!-- Two -->
 				<section id="two">
 					<div class="container">
 						<h3>Habilidades</h3>
-						<p>Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer non. Adipiscing cubilia elementum integer lorem ipsum dolor sit amet.</p>
+						<p></p>
 						<ul class="feature-icons">
 							<li class="fa-code">Desenvolvimento Desktop</li>
 							<li class="fa-globe">Desenvolvimento Web</li>
 							<li class="fa-wordpress">Desenvolvimento de Sites</li>
-							<li class="fa-users">Treinamneto e qualificação de Usuários</li>
+							<li class="fa-mobile">Desenvolvimento Mobile</li>
+							<li class="fa-users">Consultoria especializada</li>
 							<li class="fa-headphones">Suporte Remoto</li>
-							<li class="fa-whatsapp">Suporte via WhatsApp</li>
-							<li class="fa-skype">Suporte via Skype</li>
-							<li class="fa-dashboard">Informatização de Processos</li>
 						</ul>
 					</div>
 				</section>
@@ -79,7 +79,20 @@
 						<h3>Trabalhos</h3>
 						<p>Aqui encontra-se algumas de meus trabalhos.</p>
 						<div class="features">
-
+							<article>
+								<a href="#" class="image"><img src="images/gglice.png" alt="" /></a>
+								<div class="inner">
+									<h4>Gerenciador de Glicemia</h4>
+									<p><b>Gerenciador de Gliceimia</b> É uma uma Aplicativo desenvolvida para auxiliar pessoas que posusem diabetes, e possuem a necssidade de acompanhar a sua glicemia, disponibilizando gráficos com informações da glicemia.
+								</div>
+							</article>
+							<article>
+								<a href="#" class="image"><img src="images/ead-pdv.png" alt="" /></a>
+								<div class="inner">
+									<h4>EAD PDV</h4>
+									<p><b>EAD PDV</b> É uma uma Plataforma Web desenvolvida para aprendizado sobre serviços prestados aos colaboradores e prestadores de serviço da empresa.
+								</div>
+							</article>
 							<article>
 								<a href="#" class="image"><img src="images/sauda_nas_maos.png" alt="" /></a>
 								<div class="inner">
