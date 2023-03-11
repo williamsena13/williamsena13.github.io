@@ -80,17 +80,24 @@
 						<p>Aqui encontra-se algumas de meus trabalhos.</p>
 						<div class="features">
 							<article>
-								<a href="#" class="image"><img src="images/gglice.png" alt="" /></a>
+								<a href="http://45.161.216.119:9999/login" class="image"><img src="images/gglice.png" alt="" /></a>
 								<div class="inner">
 									<h4>Gerenciador de Glicemia</h4>
 									<p><b>Gerenciador de Gliceimia</b> É uma uma Aplicativo desenvolvida para auxiliar pessoas que posusem diabetes, e possuem a necssidade de acompanhar a sua glicemia, disponibilizando gráficos com informações da glicemia.
 								</div>
 							</article>
 							<article>
-								<a href="#" class="image"><img src="images/ead-pdv.png" alt="" /></a>
+								<a href="https://eadpdv.com.br/" class="image"><img src="images/ead-pdv.png" alt="" /></a>
 								<div class="inner">
 									<h4>EAD PDV</h4>
 									<p><b>EAD PDV</b> É uma uma Plataforma Web desenvolvida para aprendizado sobre serviços prestados aos colaboradores e prestadores de serviço da empresa.
+								</div>
+							</article>
+							<article>
+								<a href="https://rastreio.spartum.com.br" class="image"><img src="images/rastreio.png" alt="" /></a>
+								<div class="inner">
+									<h4>Rastreino</h4>
+									<p>Sistema de Rastreio da transportadora <b href="https://www.transapucarana.com.br/site/">TransApucarana</b> com base nos dados gerados pelo InfTransp.</p>
 								</div>
 							</article>
 							<article>
@@ -101,7 +108,7 @@
 								</div>
 							</article>
 							<article>
-								<a href="#" class="image"><img src="images/sicite.png" alt="" /></a>
+								<a href="https://pitoni.spartum.com.br/login" class="image"><img src="images/sicite.png" alt="" /></a>
 								<div class="inner">
 									<h4>Spartum®Educ</h4>
 									<p>O SpartumEduc foi uma aplicação desenvolvida como forma de patrocinio da <a href="http://infinitysoft.com.br/">Infinitysoft</a> para o XXII <a href="https://eventos.utfpr.edu.br/sicite/sicite2018">SICITE</a> (Seminário de Iniciação Científica e Tecnológica), realizado pela UTFPr - Apucarana, em 2018, onde foi utilizado para avaliar as publicações Científicas.</p>
