@@ -51,11 +51,8 @@
 						<spam>Laravel,</spam>
 						<spam>VueJS,</spam>
 						<spam>Angular,</spam>
-						<spam>VueJS,</spam>
 						<spam>Ionic,</spam>
-						<spam>HTML5</spam>
-						<spam>WordPress</spam>
-						<spam>Delphi,</spam>
+						<spam>Delphi</spam>
 					</div>
 				</section>
 				<!-- Two -->
@@ -64,10 +61,10 @@
 						<h3>Habilidades</h3>
 						<p></p>
 						<ul class="feature-icons">
-							<li class="fa-code">Desenvolvimento Desktop</li>
-							<li class="fa-globe">Desenvolvimento Web</li>
+							<li class="fa-code">Desenvolvimento de Sistemas Desktop</li>
+							<li class="fa-globe">Desenvolvimento de Sistemas Web</li>
 							<li class="fa-wordpress">Desenvolvimento de Sites</li>
-							<li class="fa-mobile">Desenvolvimento Mobile</li>
+							<li class="fa-mobile">Desenvolvimento de Aplicativos</li>
 							<li class="fa-users">Consultoria especializada</li>
 							<li class="fa-headphones">Suporte Remoto</li>
 						</ul>
@@ -77,7 +74,7 @@
 				<section id="three">
 					<div class="container">
 						<h3>Trabalhos</h3>
-						<p>Aqui encontra-se algumas de meus trabalhos.</p>
+						<p>Aqui encontra-se algumas de meus trabalhos. Essas ferramentas foram desenvolvidas para atender ou resovler algum problema um demanda dos utilizadores.</p>
 						<div class="features">
 							<article>
 								<a href="http://45.161.216.119:9999/login" class="image"><img src="images/gglice.png" alt="" /></a>
