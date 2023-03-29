@@ -13,7 +13,7 @@
 			<header>
 				<span class="image avatar"><img src="images/sbwill.jpg" alt="" /></span>
 				<h1 id="logo">
-					<a href="williambsena.github.io">William B. Sena</a>
+					<a href="https://williamsena13.github.io">William B. Sena</a>
 				</h1>
 				<p>Não importa a ferramenta<br />
 				e sim o valor gerado por ela!</p>
