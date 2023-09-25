@@ -1,0 +1,33 @@
+# Ignorar arquivos e diretórios gerados pela Node.js
+node_modules/
+
+# Ignorar arquivos de log
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Ignorar arquivos de cache
+.npm
+.pnp
+.pnp.js
+
+# Ignorar arquivos de build e distribuição (geralmente gerados por ferramentas como Webpack ou Babel)
+dist/
+build/
+
+# Ignorar arquivos de ambiente local
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Ignorar arquivos de configuração do editor
+.vscode/
+.idea/
+
+# Ignorar arquivos de dependências gerados por alguns editores
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw*
